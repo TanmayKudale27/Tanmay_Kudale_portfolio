@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tanmay Kudale – MERN Portfolio
 
 MongoDB + Express + React (Vite) + Node.js, with Framer Motion animations.
@@ -22,3 +23,6 @@ The contact form saves messages in MongoDB (`messages` collection). Projects loa
 1. `npm run build` (creates `client/dist`)
 2. Deploy the repo to Render/Railway, build command `npm run install:all && npm run build`, start command `npm start`
 3. Set env vars `MONGO_URI` and `NODE_ENV=production`.
+=======
+# Tanmay_Kudale_portfolio
+>>>>>>> 5f3ae2546871d715684e43d3bd3245b80513dff1
